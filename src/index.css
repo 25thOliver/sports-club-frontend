@@ -1,0 +1,11 @@
+/* Sidebar Layout */
+.layout {
+  display: flex;
+  height: 100vh;
+}
+
+.main {
+  margin-left: 250px;
+  padding: 2rem;
+  flex: 1;
+}
